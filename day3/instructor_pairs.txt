@@ -1,18 +1,12 @@
-Aisha, Aisha
------------------
 Aisha, James
 -----------------
 Aisha, Gavin
 -----------------
 James, Aisha
 -----------------
-James, James
------------------
 James, Gavin
 -----------------
 Gavin, Aisha
 -----------------
 Gavin, James
------------------
-Gavin, Gavin
 -----------------
